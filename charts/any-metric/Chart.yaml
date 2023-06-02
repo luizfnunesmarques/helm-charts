@@ -1,0 +1,4 @@
+apiVersion: v2
+name: any-metric
+version: 1.0.0
+description: The helm chart to effortlessly run any-metric.
