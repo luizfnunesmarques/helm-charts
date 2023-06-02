@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  any-metric:
+  - apiVersion: v2
+    created: "2023-06-02T16:11:26.165671+01:00"
+    description: The helm chart to effortlessly run any-metric.
+    digest: 38dbb4b3514f306dba7f0feb3231197ba74bc9d21cc8270bb51063b1603b878f
+    name: any-metric
+    urls:
+    - https://luizfnunesmarques.github.io/helm-charts/any-metric-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-02T16:11:26.164676+01:00"
